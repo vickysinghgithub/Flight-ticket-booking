@@ -1,0 +1,12 @@
+Name: dfgh
+Source: Delhi
+Destination: Patna
+Date of Journey: Mon Apr 17 01:47:13 IST 2023
+Fare: $1,500.00
+
+Name: Amir Suhail khan
+Source: Mumbai
+Destination: Patna
+Date of Journey: Sun Apr 23 00:00:00 IST 2023
+Fare: $3,000.00
+
